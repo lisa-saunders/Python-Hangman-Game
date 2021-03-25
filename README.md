@@ -1,9 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Project #1: Hangman
-*[Lisa Saunders]*
 
-*[DAFT REM MAR2021]*
+Lisa Saunders - DAFT REM MAR2021
 
 ## Content
 - [Project Description](#project-description)
@@ -40,6 +39,6 @@ I organize my projects for the data analytics project
 
 ## Links
 
-- Here's the Link to my Kanban board: [Link](https://trello.com/invite/b/viWmMesQ/cc93d367b4a263b4194d6dc3ff709962/data-projects)
-- My repository: [Link](https://github.com/lisasaundersgit/python_hangman.git)
-- You can find my presentation here: [Link](https://docs.google.com/presentation/d/10nXJYfcTR-6D_EYGND1ld553Sgv5gKvSrdzNMOx-aR0/edit?usp=sharing)
+- Here's the [Link](https://trello.com/invite/b/viWmMesQ/cc93d367b4a263b4194d6dc3ff709962/data-projects) to my Kanban board
+- My [repository](https://github.com/lisasaundersgit/python_hangman.git)
+- You can find my presentation [here](https://docs.google.com/presentation/d/10nXJYfcTR-6D_EYGND1ld553Sgv5gKvSrdzNMOx-aR0/edit?usp=sharing)
